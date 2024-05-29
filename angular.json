@@ -39,7 +39,8 @@
             "prerender": true,
             "ssr": {
               "entry": "projects/my-app/server.ts"
-            }
+            },
+            "webWorkerTsConfig": "projects/my-app/tsconfig.worker.json"
           },
           "configurations": {
             "production": {
@@ -106,7 +107,8 @@
               "projects/my-app/src/styles.scss"
             ],
             "scripts": [],
-            "karmaConfig": "projects/my-app/karma.conf.js"
+            "karmaConfig": "projects/my-app/karma.conf.js",
+            "webWorkerTsConfig": "projects/my-app/tsconfig.worker.json"
           }
         }
       }
