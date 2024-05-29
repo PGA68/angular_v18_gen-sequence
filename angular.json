@@ -98,7 +98,8 @@
             "styles": [
               "projects/my-app/src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [],
+            "karmaConfig": "projects/my-app/karma.conf.js"
           }
         }
       }
@@ -131,7 +132,8 @@
             "polyfills": [
               "zone.js",
               "zone.js/testing"
-            ]
+            ],
+            "karmaConfig": "projects/my-lib/karma.conf.js"
           }
         }
       }
