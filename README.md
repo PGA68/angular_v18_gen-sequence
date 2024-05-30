@@ -1,9 +1,6 @@
 >>> #### Example ordinare generation zero payload code with **_bun.js_**
 >>> #### Sequence of commits with sequence of ng generation commands
->>> + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
->>> + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
->>> + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + +
->>> + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + + 
+>>> @
 
 
 # Angular v18   
@@ -99,7 +96,7 @@ bun run build my-lib
 
 **Build at: 2024-05-28T08:45:53.762Z - Time: 3997ms**
 
-# &
+$$ --- $$
 
 ## Tag SETUP_2 : Application & Library full complect
 
